@@ -1,0 +1,7 @@
+ticker,company,sector,weight
+AAPL,Apple Inc.,Technology,0.2
+TSLA,"Tesla, Inc.",Consumer Discretionary,0.2
+XOM,Exxon Mobil,Energy,0.15
+META,Meta Platforms,Communication Services,0.15
+JPM,JPMorgan Chase,Financials,0.15
+KO,Coca-Cola,Consumer Staples,0.15

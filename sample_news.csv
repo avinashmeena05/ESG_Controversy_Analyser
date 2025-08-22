@@ -1,0 +1,13 @@
+ticker,text,label
+AAPL,Apple faces criticism for supplier factory wastewater discharge affecting local river ecosystems.,E
+AAPL,Apple announces new recycling program reducing e-waste by 30%.,E_POS
+TSLA,Tesla under investigation over workplace safety violations at Fremont plant.,S
+TSLA,Tesla praised for improving battery recycling and lower cobalt use.,E_POS
+XOM,Oil spill near refinery causes major coastal damage; regulators issue fines to Exxon.,E
+META,Whistleblower alleges Meta ignored harmful content moderation policies.,S
+META,Meta updates governance policies adding more independent directors.,G_POS
+JPM,JPMorgan fined for inadequate anti-money-laundering controls.,G
+KO,Coca-Cola accused of over-extracting groundwater in drought-hit area.,E
+KO,Coca-Cola launches diversity and inclusion hiring initiative across regions.,S_POS
+AAPL,Shareholder lawsuit alleges executive compensation misalignment with performance at Apple.,G
+XOM,Community protest alleges health impacts from flaring near Exxon plant.,S
