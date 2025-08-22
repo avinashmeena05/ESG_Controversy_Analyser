@@ -9,8 +9,6 @@ A recruiter-ready, end-to-end project that detects ESG controversies from unstru
 - **Portfolio simulation** (Monte Carlo + VaR-style downside view)
 - **Streamlit dashboard** for interactive exploration
 
-> Note: This repository ships with **synthetic demo datasets** so it runs offline. You can wire real sources later (GDELT, EDGAR, NGO PDFs).
-
 ## Project Structure
 ```
 esg_controversy_analyzer/
@@ -31,21 +29,6 @@ esg_controversy_analyzer/
 │   └── simulation.py
 ├── requirements.txt
 └── README.md
-```
-
-## Quickstart
-```bash
-# 1) Create a venv (recommended)
-python -m venv .venv && source .venv/bin/activate  # Windows: .venv\Scripts\activate
-
-# 2) Install deps
-pip install -r requirements.txt
-
-# 3) Train the classifier (saves model + vectorizer to /models)
-python -m src.nlp_model --train_path data/sample_news.csv --out_dir models
-
-# 4) Run the dashboard
-streamlit run app/dashboard_app.py
 ```
 
 ## How it works
